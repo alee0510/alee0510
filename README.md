@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hai 👋, I'm alee 👨‍💻
+**Web and Mobile Developer,**
 
-<!--
-**alee0510/alee0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A man with unlimited curiosity about the Universe. My dream is to become an expert in aerospace 🚀 technology to explore our universe. I love dance and drawing. 
 
-Here are some ideas to get you started:
+I love React and JavaSript. Currently, I'm interested in Flutter and Cyberscurity for Network and Database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Works 👩‍💻 :
+- [weather-app](https://alee0510.github.io/weather-app/)
+- [tic-tac toe](https://alee0510.github.io/tictac_toe/)
+
+### Get in Touch 🥅:
+- [@Twitter](https://twitter.com/a_lee0510)
+- [Instagram](https://www.instagram.com/a_lee0510/)
+- [LinkedIn](https://www.linkedin.com/in/a-lee0510/)
