@@ -1,9 +1,11 @@
 # Hai 👋, I'm alee 👨‍💻
 **Web and Mobile Developer,**
 
-A man with unlimited curiosity about the Universe. My dream is to become an expert in aerospace 🚀 technology to explore our universe. I love dance and drawing. 
+A man with unlimited curiosity about the Universe. My dream is to become an expert in aerospace 🚀 technology to explore our universe. I love dance and drawing.
 
-I love React and JavaSript. Currently, I'm interested in Flutter and Cyberscurity for Network and Database.
+> My Diary, 
+> C++ is my first love. Python is my Mom and MATLAB is my Dad. I love both of
+> them. JavaScript is my girl, but I love Flutter and Dart too.
 
 ### My Works 👩‍💻 :
 - [weather-app](https://alee0510.github.io/weather-app/)
