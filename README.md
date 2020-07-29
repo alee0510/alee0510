@@ -1,5 +1,5 @@
 # Hai 👋, I'm alee 👨‍💻
-**Web and Mobile Developer ,**
+**Web and Mobile Developer **
 ![Twitter Follow](https://img.shields.io/twitter/follow/a_lee0510?style=social)![GitHub followers](https://img.shields.io/github/followers/alee0510?style=social)
 
 A man with unlimited curiosity about the Universe. My dream is to become an expert in aerospace 🚀 technology to explore our universe. I love dance, drawing, and reading.
