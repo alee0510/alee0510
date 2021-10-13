@@ -19,3 +19,5 @@ A man with unlimited curiosity about the Universe. My dream is to become an expe
 - [@Twitter](https://twitter.com/a_lee0510)
 - [Instagram](https://www.instagram.com/a_lee0510/)
 - [LinkedIn](https://www.linkedin.com/in/a-lee0510/)
+
+<a href="https://app.daily.dev/alee0510"><img src="https://api.daily.dev/devcards/6ad6840750374e7d8669f8a200a15ed9.png?r=ofs" width="400" alt="Ali Muksin's Dev Card"/></a>
