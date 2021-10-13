@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/alee0510"><img src="https://github.com/alee0510/alee0510/blob/master/devcard.svg" width="400" alt="Ali Muksin's Dev Card"/></a>
+
 # Hai 👋, I'm alee 👨‍💻
 ![Twitter Follow](https://img.shields.io/twitter/follow/a_lee0510?style=social)![GitHub followers](https://img.shields.io/github/followers/alee0510?style=social)
 
@@ -19,5 +21,3 @@ A man with unlimited curiosity about the Universe. My dream is to become an expe
 - [@Twitter](https://twitter.com/a_lee0510)
 - [Instagram](https://www.instagram.com/a_lee0510/)
 - [LinkedIn](https://www.linkedin.com/in/a-lee0510/)
-
-<a href="https://app.daily.dev/alee0510"><img src="https://github.com/alee0510/alee0510/blob/master/devcard.svg" width="400" alt="Ali Muksin's Dev Card"/></a>
