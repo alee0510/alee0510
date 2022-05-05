@@ -3,7 +3,7 @@
 # Hai 👋, I'm Ale 👨‍💻
 ![Twitter Follow](https://img.shields.io/twitter/follow/a_lee0510?style=social)![GitHub followers](https://img.shields.io/github/followers/alee0510?style=social)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-alee0510?style=for-the-badge&logo=linkedin&logoColor=white)
 
 **A Creative Software Engineer**
 
