@@ -2,7 +2,7 @@
 
 # Hai 👋, I'm Ale 👨‍💻
 
-**A Creative Software Engineer**
+### **A Creative Software Engineer**
 
 C++ is my first love. Python is my Mom and MATLAB is my Dad. I love both of them. JavaScript is my girl, but I love Flutter and Dart too. I have a complicated realationship with them. GitHub is my social media and [DEV](dev.to) is my favorite forum.
 
